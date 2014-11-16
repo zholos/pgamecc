@@ -1,0 +1,9 @@
+#include <pgamecc/window.h>
+#include <pgamecc/gl.h>
+#include <pgamecc/entropy.h>
+#include <pgamecc/util.h>
+#include <pgamecc/color.h>
+#include <pgamecc/image.h>
+#include <pgamecc/tiles.h>
+#include <pgamecc/loc.h>
+#include <pgamecc/types.h>
